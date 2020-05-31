@@ -1,5 +1,4 @@
 ﻿using UnityEngine;
-using Platinio.TweenEngine;
 
 public class PlatinioTweenExample : MonoBehaviour
 {
